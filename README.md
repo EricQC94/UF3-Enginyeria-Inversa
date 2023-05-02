@@ -16,4 +16,5 @@ No es pot.
 
 ![Batalla](https://user-images.githubusercontent.com/113598440/235706568-4663a1a7-6402-48e6-8b29-f5f2c9170b97.png)
 
-![Blank diagram(1)](https://user-images.githubusercontent.com/113598440/235749414-e5c17a33-4d7f-4923-a88a-df3b043308f6.png)
+![Blank diagram(2)](https://user-images.githubusercontent.com/113598440/235749744-564e403d-f4a8-4245-a1f1-bda8ebfa3855.png)
+
