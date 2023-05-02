@@ -15,3 +15,5 @@ No es pot.
 ![Selecció_033](https://user-images.githubusercontent.com/113598440/234522461-7803087b-f00b-4fd4-8c15-f669eed1efb6.png)
 
 ![Batalla](https://user-images.githubusercontent.com/113598440/235706568-4663a1a7-6402-48e6-8b29-f5f2c9170b97.png)
+
+![Blank diagram(1)](https://user-images.githubusercontent.com/113598440/235749414-e5c17a33-4d7f-4923-a88a-df3b043308f6.png)
