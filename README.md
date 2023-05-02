@@ -10,7 +10,7 @@ No es pot.
 
 #Batalles:
 
-![Selecció_032](https://user-images.githubusercontent.com/113598440/234522435-2dbeaa9d-8108-48aa-b122-35c7b328595a.png)
+1. ![Selecció_032](https://user-images.githubusercontent.com/113598440/234522435-2dbeaa9d-8108-48aa-b122-35c7b328595a.png)
 
-![Selecció_033](https://user-images.githubusercontent.com/113598440/234522461-7803087b-f00b-4fd4-8c15-f669eed1efb6.png)
+2. ![Selecció_033](https://user-images.githubusercontent.com/113598440/234522461-7803087b-f00b-4fd4-8c15-f669eed1efb6.png)
 
