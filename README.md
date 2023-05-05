@@ -6,7 +6,7 @@
 ![Selecció_031](https://user-images.githubusercontent.com/113598440/234518849-36f806dc-4b05-491d-b00f-36cb6f150adf.png)
 
 Es pot utilitzar directament el codi generat a JAVA?
-No es pot.
+No es pot. Hem d'instal·lar el JDK primer.
 
 #Batalles:
 
