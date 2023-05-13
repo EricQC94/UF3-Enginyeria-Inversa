@@ -16,5 +16,5 @@ No es pot. Hem d'instal·lar el JDK primer.
 
 ![Batalla](https://user-images.githubusercontent.com/113598440/235706568-4663a1a7-6402-48e6-8b29-f5f2c9170b97.png)
 
-![Blank diagram(2)](https://user-images.githubusercontent.com/113598440/235749878-8eb5b39a-65d9-4b7a-ac3d-8373fc667b2c.png)
+![Blank diagram(3)](https://github.com/EricQC94/UF3-Enginyeria-Inversa/assets/113598440/4ad6135e-a3d3-452f-b074-349559777207)
 
